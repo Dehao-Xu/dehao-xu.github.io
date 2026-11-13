@@ -65,3 +65,6 @@
 .research-figure .figure-heading{text-align:center;color:#805397;font-size:28px;font-weight:700;line-height:1.3;margin:0 0 18px}
 
 .modelling-figure .figure-heading{color:#237565}
+
+/* The six simulation frames share the same cropped 416 x 1040 canvas. */
+.melting-regime:not(.scallop-regime) .melting-field video{aspect-ratio:2/5;object-fit:fill}
