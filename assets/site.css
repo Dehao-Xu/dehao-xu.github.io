@@ -68,3 +68,8 @@
 
 /* The six simulation frames share the same cropped 416 x 1040 canvas. */
 .melting-regime:not(.scallop-regime) .melting-field video{aspect-ratio:2/5;object-fit:fill}
+
+.timeline .professor-link{color:#1765a3;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
+.timeline .professor-link:hover{color:#104a79}
+
+.timeline-item .group-homepage-link{display:block;font-size:17px;margin-top:3px}
