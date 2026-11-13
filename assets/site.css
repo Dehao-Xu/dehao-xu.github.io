@@ -61,3 +61,5 @@
 .honors li{padding-inline:16px;border-left:3px solid transparent}
 @media(max-width:760px){.home-content{--content-gutter:20px}}
 @media(max-width:480px){.home-content{--content-gutter:16px}}
+
+.research-figure .figure-heading{color:#805397;font-size:28px;font-weight:700;line-height:1.3;margin:0 0 18px}
